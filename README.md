@@ -20,4 +20,6 @@ All the python packages and libraries used in the project are listed in the file
 
 Other than the libraries and packages listed in file `requirements.txt`, we also need to use the sqlite interface provided by an in-built python module called `sqlite3`.
 
+The schema diagram is taken from [Dataquest](https://www.dataquest.io/).
+
 In case the notebook is not loading up, try [notebook viewer](https://nbviewer.jupyter.org/) to render it properly.
